@@ -810,7 +810,7 @@
                   zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Coucou c'est l'heure de fermer le groupe ; sayonnara " });
 
                 }, {
-                    timezone: "Africa/Abidjan"
+                    timezone: "Africa/Tazania"
                   });
               }
         
